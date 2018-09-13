@@ -6,13 +6,13 @@ title: 袋小路
 # 袋小路
 
 * 流れ
-    * 袋小路（ブログ） <http://blog.bagend.info>
-    * BagEnd（tumblr） <http://tumblr.bagend.info>
+    * 袋小路（ブログ） <https://blog.bagend.info>
+    * BagEnd（tumblr） <https://tumblr.bagend.info>
 * 澱み
-    * twitterおみくじ <http://omikuji.bagend.info>
+    * twitterおみくじ <https://omikuji.bagend.info>
     * [サービス停止] ニコニコ動画ランキングデータ <http://nicorank.bagend.info>
-    * コミックダッシュ・新刊カレンダー  <http://blog.bagend.info/2011/11/blog-post_19.html>
-    * 郵便番号検索 <http://service.bagend.info/zipcode/>
+    * コミックダッシュ・新刊カレンダー  <https://blog.bagend.info/2011/11/blog-post_19.html>
+    * 郵便番号検索 <https://www.bagend.info/zipcode.html>
 * 翻訳モノ
     * Eloquent JavaScript  <https://morinatsu.github.io/eloquentJavaScript/>
     * HOWTO-Customize-LogWatch <https://morinatsu.github.io/howto-customize-logwatch/>
