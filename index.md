@@ -12,7 +12,7 @@ title: 袋小路
     * twitterおみくじ <https://omikuji.bagend.info>
     * [サービス停止] ニコニコ動画ランキングデータ ~~http://nicorank.bagend.info~~
     * コミックダッシュ・新刊カレンダー  <https://blog.bagend.info/2011/11/blog-post_19.html>
-    * 郵便番号検索 <https://www.bagend.info/zipcode.html>
+    * [サービス停止] 郵便番号検索 ~~https://www.bagend.info/zipcode.html~~
 * 翻訳モノ
     * Eloquent JavaScript  <https://morinatsu.github.io/eloquentJavaScript/>
     * HOWTO-Customize-LogWatch <https://morinatsu.github.io/howto-customize-logwatch/>
