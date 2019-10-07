@@ -14,9 +14,9 @@ title: 袋小路
     * コミックダッシュ・新刊カレンダー  <https://blog.bagend.info/2011/11/blog-post_19.html>
     * [サービス停止] 郵便番号検索 ~~https://www.bagend.info/zipcode.html~~
 * 翻訳モノ
-    * Eloquent JavaScript  <https://morinatsu.github.io/eloquentJavaScript/>
-    * HOWTO-Customize-LogWatch <https://morinatsu.github.io/howto-customize-logwatch/>
-    * Growl Doc(JP) <http://dl.dropbox.com/u/2198478/GrowlForWindows/index.html>
+    * Eloquent JavaScript  <https://bagend.info/eloquentJavaScript/>
+    * HOWTO-Customize-LogWatch <https://bagend.info/howto-customize-logwatch/>
+    * Growl Doc(JP) ~~http://dl.dropbox.com/u/2198478/GrowlForWindows/index.html~~
     * Pythonicって何？ <http://www.facebook.com/note.php?note_id=188265081235932>
     * 個体群動態：翻訳 <http://nmori.blog91.fc2.com/blog-entry-448.html>
 
