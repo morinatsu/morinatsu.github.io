@@ -9,7 +9,7 @@ title: 袋小路
     * 袋小路（ブログ） <https://blog.bagend.info>
     * BagEnd（tumblr） <https://tumblr.bagend.info>
 * 澱み
-    * twitterおみくじ <https://omikuji.bagend.info>
+    * [サービス停止] twitterおみくじ ~~https://omikuji.bagend.info~~
     * [サービス停止] ニコニコ動画ランキングデータ ~~http://nicorank.bagend.info~~
     * コミックダッシュ・新刊カレンダー  <https://blog.bagend.info/2011/11/blog-post_19.html>
     * [サービス停止] 郵便番号検索 ~~https://www.bagend.info/zipcode.html~~
