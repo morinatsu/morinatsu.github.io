@@ -17,6 +17,6 @@ title: 袋小路
     * Eloquent JavaScript  <https://www.bagend.info/eloquentJavaScript/>
     * HOWTO-Customize-LogWatch <https://www.bagend.info/howto-customize-logwatch/>
     * Growl Doc(JP) ~~http://dl.dropbox.com/u/2198478/GrowlForWindows/index.html~~
-    * Pythonicって何？ <http://www.facebook.com/note.php?note_id=188265081235932>
+    * Pythonicって何？ <https://www.bagend.info/what-is-pythonic_jp/>
     * 個体群動態：翻訳 <http://nmori.blog91.fc2.com/blog-entry-448.html>
 
