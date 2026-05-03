@@ -8,6 +8,7 @@ title: 袋小路
 ## 流れ
 
 * 袋小路（ブログ） <https://blog.bagend.info>
+    <p style="font-size: 0.85em; color: gray; margin-bottom: 0;">※ 各記事の要約は AI (Gemini) によって自動生成されています。</p>
     <ul id="blog-entries-list">
         <li>記事を読み込み中...</li>
     </ul>
