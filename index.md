@@ -5,6 +5,55 @@ title: 袋小路
 
 # 袋小路
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Yomogi&display=swap');
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: sans-serif;
+    position: relative; /* 背景をこの幅の内部に配置するための基準 */
+}
+
+/* 画像を完全に背面に置き、本文と重ねる */
+.bg-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: -1;
+    pointer-events: none;
+}
+
+#header-image {
+    max-width: 100%;
+    height: 450px;
+    width: auto;
+    opacity: 0.6; /* 文字を上に重ねるため、見やすさを考慮して少し薄く */
+    -webkit-mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
+    mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
+}
+
+/* タイトルを少し下げて、画像と重ねた時にバランス良く見せる */
+h1 {
+    font-family: 'Potta One', sans-serif; /* タイトルにPotta Oneを適用 */
+    margin-top: 40px;
+    margin-bottom: 250px; /* 「袋小路」と「流れ」の間を大きく開ける */
+    /* 文字が画像に埋もれないように白フチ（影）をつける */
+    text-shadow: 0 0 10px white, 0 0 5px white;
+}
+
+h2 {
+    font-family: 'Yomogi', sans-serif;
+}
+</style>
+
+<div class="bg-wrapper">
+    <img src="assets/images/Site_Image.png" alt="" id="header-image">
+</div>
+
 ## 流れ
 
 * 袋小路（ブログ） <https://blog.bagend.info>
