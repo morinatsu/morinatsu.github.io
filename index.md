@@ -29,15 +29,15 @@ body {
 
 #header-image {
     max-width: 100%;
-    height: 450px;
+    height: 675px;
     width: auto;
-    opacity: 0.6; /* 文字を上に重ねるため、見やすさを考慮して少し薄く */
     -webkit-mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
     mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
 }
 
 /* タイトルを少し下げて、画像と重ねた時にバランス良く見せる */
 h1 {
+    font-size: 4em;
     font-family: 'Potta One', sans-serif; /* タイトルにPotta Oneを適用 */
     margin-top: 40px;
     margin-bottom: 250px; /* 「袋小路」と「流れ」の間を大きく開ける */
