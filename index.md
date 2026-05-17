@@ -14,6 +14,8 @@ body {
     padding: 20px;
     font-family: sans-serif;
     position: relative; /* 背景をこの幅の内部に配置するための基準 */
+    overflow-wrap: break-word; /* 長いURLなどで横スクロールが発生して全体が左に寄るのを防ぐ */
+    word-wrap: break-word;
 }
 
 /* 画像を完全に背面に置き、本文と重ねる */
@@ -30,7 +32,8 @@ body {
 #header-image {
     max-width: 100%;
     height: 675px;
-    width: auto;
+    width: 100%;
+    object-fit: cover; /* 画像の縦横比を保ちつつ枠に収める */
     -webkit-mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
     mask-image: linear-gradient(to bottom, black 40%, transparent 100%);
 }
@@ -47,6 +50,22 @@ h1 {
 
 h2 {
     font-family: 'Yomogi', sans-serif;
+}
+/* スマホ向けのレイアウト調整 (画面幅が600px以下の場合) */
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 2.5em; /* タイトルの文字を少し小さく */
+        margin-top: 20px;
+        margin-bottom: 120px; /* 画像とのバランスを見て余白を調整 */
+    }
+
+    #header-image {
+        height: 350px; /* 画像の高さをスマホに合わせて低くする */
+    }
+    
+    body {
+        padding: 10px; /* 左右の余白を少し狭くして画面を広く使う */
+    }
 }
 </style>
 
